@@ -1,0 +1,1 @@
+This project implements an autofill search bar for different types of fruits. As users type in the search box, a dropdown appears with fruit suggestions that match the input. Users can hover over suggestions to highlight them and click on a suggestion to populate the search bar with that fruit.
